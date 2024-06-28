@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877421696075",
+    "project_id": "logical-reasoning-test",
+    "storage_bucket": "logical-reasoning-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877421696075:android:18e7b55c9ac399bf5be9ce",
+        "android_client_info": {
+          "package_name": "com.testquestions.logical_reasoning_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe3aUTbLGQKsW2JJPyhOxnjxFw0_IpJC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
